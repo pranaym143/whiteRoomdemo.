@@ -1,0 +1,6 @@
+{
+  "name": "The White Room Archives",
+  "description": "A completely free premium digital library for psychology, human behavior, tactical decision making, and self-discipline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
